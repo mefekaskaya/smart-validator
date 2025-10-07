@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+dist/
+coverage/
+*.log
+
+# Build outputs
+*.tgz
+
+# Env files
+.env
+.env.local
