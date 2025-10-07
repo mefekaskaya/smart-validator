@@ -1,5 +1,5 @@
 {
-  "name": "smart-validator",
+  "name": "@mehmetefekaskaya/smart-validator",
   "version": "1.0.0",
   "type": "module",
   "main": "dist/index.cjs.js",
