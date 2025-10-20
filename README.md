@@ -38,10 +38,11 @@ making it ideal for both client-side forms and backend data validation.
 ## 📦 Installation
 
 npm install @mehmetefekaskaya/smart-validator
+Documentation: https://www.npmjs.com/package/@mehmetefekaskaya/smart-validator
 
 # or
 
-yarn add smart-validator
+yarn add @mehmetefekaskaya/smart-validator
 
 ---
 
