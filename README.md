@@ -37,7 +37,7 @@ making it ideal for both client-side forms and backend data validation.
 
 ## 📦 Installation
 
-npm install smart-validator
+npm install @mehmetefekaskaya/smart-validator
 
 # or
 
